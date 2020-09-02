@@ -1,0 +1,46 @@
+body {
+	background: black;    
+}
+.main {
+	margin: 0 auto;
+	background: white; 
+    width: 500px; 
+    height: 600px;
+    padding: 10px;
+}
+span{
+    display: inline-block;
+    line-height: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ht5 {
+    float: left;
+    width: 30px; 
+    height: 30px;
+}
+#share{
+    float: right;
+    width: 30px; 
+    height: 30px;
+}
+.corpo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px; 
+}
+#myImage {
+	width: 520px;
+    height: 300px;
+    position: relative;
+    left: -10px;	
+}
+#heart {
+	width: 170px;
+    height: 60px;
+    position: relative;	
+}
+#band
+{
+	width: 80px;
+    height: 50px;
+    float: right;;	
+}
